@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.csproj.AssemblyReference.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache
