@@ -20,6 +20,7 @@ namespace Average
             Console.WriteLine("Enter the Third Number :");
             int c = Convert.ToInt32(Console.ReadLine());
 
+            
             avg = a + b + c / 3;
 
             Console.WriteLine("The Average of Three Number is :" + avg);
