@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\bin\Debug\netcoreapp3.1\InttoString.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\bin\Debug\netcoreapp3.1\InttoString.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\bin\Debug\netcoreapp3.1\InttoString.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\bin\Debug\netcoreapp3.1\InttoString.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\bin\Debug\netcoreapp3.1\InttoString.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\bin\Debug\netcoreapp3.1\InttoString.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.csproj.AssemblyReference.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\InttoString\obj\Debug\netcoreapp3.1\InttoString.genruntimeconfig.cache
