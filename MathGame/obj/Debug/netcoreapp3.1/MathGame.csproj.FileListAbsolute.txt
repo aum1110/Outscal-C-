@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\bin\Debug\netcoreapp3.1\MathGame.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\bin\Debug\netcoreapp3.1\MathGame.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\bin\Debug\netcoreapp3.1\MathGame.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\bin\Debug\netcoreapp3.1\MathGame.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\bin\Debug\netcoreapp3.1\MathGame.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\bin\Debug\netcoreapp3.1\MathGame.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.csproj.AssemblyReference.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MathGame\obj\Debug\netcoreapp3.1\MathGame.genruntimeconfig.cache
