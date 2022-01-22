@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\bin\Debug\netcoreapp3.1\coolnumbers.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\bin\Debug\netcoreapp3.1\coolnumbers.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\bin\Debug\netcoreapp3.1\coolnumbers.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\bin\Debug\netcoreapp3.1\coolnumbers.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\bin\Debug\netcoreapp3.1\coolnumbers.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\bin\Debug\netcoreapp3.1\coolnumbers.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.csproj.AssemblyReference.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\coolnumbers\obj\Debug\netcoreapp3.1\coolnumbers.genruntimeconfig.cache
