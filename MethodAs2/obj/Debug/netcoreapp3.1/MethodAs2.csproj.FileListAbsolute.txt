@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\bin\Debug\netcoreapp3.1\MethodAs2.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\bin\Debug\netcoreapp3.1\MethodAs2.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\bin\Debug\netcoreapp3.1\MethodAs2.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\bin\Debug\netcoreapp3.1\MethodAs2.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\bin\Debug\netcoreapp3.1\MethodAs2.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\bin\Debug\netcoreapp3.1\MethodAs2.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.genruntimeconfig.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\MethodAs2\obj\Debug\netcoreapp3.1\MethodAs2.csproj.AssemblyReference.cache
