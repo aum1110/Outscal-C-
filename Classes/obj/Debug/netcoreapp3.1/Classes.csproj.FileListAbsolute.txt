@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
