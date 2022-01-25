@@ -17,12 +17,12 @@ namespace Methodas1
 
         }
 
-        static int Multiply(int a ,int b ,int c)
+        static void Multiply(int a ,int b ,int c)
         {
 
             int result = a * b * c;
             Console.WriteLine(result);
-            return result;
+            
         
         }
 
