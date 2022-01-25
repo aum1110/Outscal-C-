@@ -10,7 +10,7 @@ namespace arrays
 
             Console.WriteLine("Enter 4 Movies name : ");
 
-            for (int i = 0; i <= movies.Length; i++)
+            for (int i = 0; i < movies.Length; i++)
             {
                 movies[i] = Console.ReadLine();
             }
@@ -19,7 +19,7 @@ namespace arrays
 
             Array.Sort(movies);
 
-            for (int i = 0; i <= movies.Length; i++)
+            for (int i = 0; i <  movies.Length; i++)
                 {
 
                 Console.WriteLine(movies[i]);

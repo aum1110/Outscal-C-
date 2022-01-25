@@ -1,0 +1,13 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\bin\Debug\netcoreapp3.1\Studentarray.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\bin\Debug\netcoreapp3.1\Studentarray.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\bin\Debug\netcoreapp3.1\Studentarray.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\bin\Debug\netcoreapp3.1\Studentarray.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\bin\Debug\netcoreapp3.1\Studentarray.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\bin\Debug\netcoreapp3.1\Studentarray.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\Studentarray\obj\Debug\netcoreapp3.1\Studentarray.genruntimeconfig.cache
