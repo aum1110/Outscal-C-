@@ -14,9 +14,17 @@ namespace Methodas1
             int answer = Multiply(a, b, c);
 
             Console.WriteLine(answer);
-            
 
 
+            if (answer % 2 == 0)
+            {
+                Console.WriteLine("Number is Even");
+            }
+            else
+            {
+                Console.WriteLine("Number is Odd");
+                    
+            }
 
         }
 
