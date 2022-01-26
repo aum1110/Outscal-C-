@@ -1,0 +1,14 @@
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\bin\Debug\netcoreapp3.1\FinalAs.exe
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\bin\Debug\netcoreapp3.1\FinalAs.deps.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\bin\Debug\netcoreapp3.1\FinalAs.runtimeconfig.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\bin\Debug\netcoreapp3.1\FinalAs.runtimeconfig.dev.json
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\bin\Debug\netcoreapp3.1\FinalAs.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\bin\Debug\netcoreapp3.1\FinalAs.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.csproj.AssemblyReference.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.AssemblyInfoInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.AssemblyInfo.cs
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.csproj.CoreCompileInputs.cache
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.dll
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.pdb
+C:\Users\AUM\OneDrive\Desktop\Outscal C#\FinalAs\obj\Debug\netcoreapp3.1\FinalAs.genruntimeconfig.cache
